@@ -39,6 +39,7 @@ It helps manage disaster-affected areas and efficiently allocate resources based
 
 
 ##  Output 
+```text
 ========================================
  DISASTER RELIEF MANAGEMENT SYSTEM
 ========================================
